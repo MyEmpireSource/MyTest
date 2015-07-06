@@ -4,3 +4,5 @@ Git is a distributed version control system
 this is test file
 
 
+Git has a mutble index called stage.
+Git tracks changes.
