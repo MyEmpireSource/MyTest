@@ -4,6 +4,11 @@
 
 #include<stdio.h>
 
+void print_line()
+{
+	printf("\n");
+}
+
 int main(void) 
 {
 	int i;
