@@ -4,6 +4,13 @@
 
 #include<stdio.h>
 
+void printf_some_line(int number) {
+	while (number > 0) {
+		printf("/n");
+		number--;
+	}
+}
+
 int main(void) 
 {
 	int i;
